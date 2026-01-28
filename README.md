@@ -68,8 +68,8 @@ The simulator consists of three primary components:
 ## Tools & Technologies
 
 - **Framework:** Robot Operating System (ROS)  
-- **Language:** Python / C++ (based on your implementation)  
-- **Visualization:** Terminal logs or ROS-compatible plotting tools  
+- **Language:** Python
+- **Visualization:** Terminal logs & ROS-compatible plotting tools  
 - **Platform:** Ubuntu Linux with ROS environment  
 
 ---
